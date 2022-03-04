@@ -1,7 +1,7 @@
 function MyName() {
   return (
     <div>
-      <div>พิพัฒน์ แฮะประโคน</div>
+      <div>กิตติ ธรรมธร</div>
       <div>610112418020</div>
     </div>
   );
